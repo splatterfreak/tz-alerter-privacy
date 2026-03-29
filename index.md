@@ -14,7 +14,7 @@ This app itself does not collect or store any personal data.
 
 ## 4. In-App Purchases (Subscriptions)
 This app offers paid subscriptions via Google Play Billing.  
-The provider is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.
+The provider is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.  
 
 In the context of purchases, Google may process personal data such as account and payment information. We do not have access to this data.
 
@@ -31,7 +31,8 @@ AdMob may process the following data:
 - Advertising ID  
 - Usage data  
 
-This data may be used to provide personalized ads.
+This data may be used to provide personalized ads.  
+Users in the European Economic Area (EEA) will be asked for consent before personalized ads are shown.  
 
 More information:  
 https://policies.google.com/technologies/ads
@@ -51,7 +52,10 @@ You have the right to:
 - Data portability  
 
 ## 8. Changes
-We reserve the right to update this privacy policy if necessary.
+We reserve the right to update this privacy policy if necessary.  
+
+## 9. Data Retention
+We do not store personal data ourselves. Data processed by third-party providers is handled according to their respective privacy policies.
 
 ---
 
