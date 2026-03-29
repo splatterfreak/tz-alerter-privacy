@@ -4,9 +4,9 @@
 We take the protection of your personal data very seriously. This app processes personal data only in accordance with applicable data protection laws, in particular the General Data Protection Regulation (GDPR).
 
 ## 2. Data Controller
-Christian Rothhaar
-Querweg 4
-25336 Elmshorn
+Christian Rothhaar  
+Querweg 4  
+25336 Elmshorn  
 christian.rothhaar@gmx.net
 
 ## 3. Data Collection by the App
@@ -59,9 +59,9 @@ We reserve the right to update this privacy policy if necessary.
 
 **Information according to § 5 TMG**
 
-Christian Rothhaar
-Querweg 4
-25336 Elmshorn 
+Christian Rothhaar  
+Querweg 4  
+25336 Elmshorn   
 Germany
 
 **Contact:**  
