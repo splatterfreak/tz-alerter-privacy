@@ -57,6 +57,17 @@ We reserve the right to update this privacy policy if necessary.
 ## 9. Data Retention
 We do not store personal data ourselves. Data processed by third-party providers is handled according to their respective privacy policies.
 
+## 10. Server / Backend
+
+The app communicates with our backend server to provide app functionality. During this process, the following data may be collected and processed:
+
+- **IP address** – used for security, debugging, and rate limiting.  
+- **Device identifier (Device ID)** – used to identify the device for features like rate limiting and preventing abuse.  
+
+This data is **only used to provide app functionality** and is transmitted securely via HTTPS. Server logs may temporarily store IP addresses for monitoring and security purposes.  
+
+No other personal information is stored or shared by the backend.
+
 ---
 
 # Imprint
