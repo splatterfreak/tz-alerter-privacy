@@ -1,72 +1,149 @@
 # Privacy Policy for "Terror Zone Alerter for D2"
 
+**Last updated: April 2026**
+
+---
+
 ## 1. General Information
-We take the protection of your personal data very seriously. This app processes personal data only in accordance with applicable data protection laws, in particular the General Data Protection Regulation (GDPR).
+
+We take the protection of your personal data very seriously. Personal data is processed only in accordance with applicable data protection laws, in particular the General Data Protection Regulation (GDPR).
+
+Personal data is any information relating to an identified or identifiable natural person.
+
+---
 
 ## 2. Data Controller
-Christian Rothhaar  
-Querweg 4  
-25336 Elmshorn  
-christian.rothhaar@gmx.net
 
-## 3. Data Collection by the App
-This app itself does not collect or store any personal data.
+Christian Rothhaar
+Querweg 4
+25336 Elmshorn
+Germany
 
-## 4. In-App Purchases (Subscriptions)
-This app offers paid subscriptions via Google Play Billing.  
-The provider is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.  
+Email: [christian.rothhaar@gmx.net](mailto:christian.rothhaar@gmx.net)
 
-In the context of purchases, Google may process personal data such as account and payment information. We do not have access to this data.
+---
 
-More information:  
-https://policies.google.com/privacy
+## 3. Data Processing Overview
 
-## 5. Advertising (Google AdMob)
-This app uses Google AdMob, a service for displaying advertisements.  
-Provider: Google Ireland Limited.
+This app processes personal data only to the extent necessary to provide its functionality and to finance the app through advertising.
+
+The processing includes:
+
+* Displaying advertisements (via Google AdMob)
+* Ensuring app functionality and security via backend communication
+
+---
+
+## 4. Advertising (Google AdMob)
+
+This app uses Google AdMob, a service provided by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.
 
 AdMob may process the following data:
-- Device information  
-- IP address  
-- Advertising ID  
-- Usage data  
 
-This data may be used to provide personalized ads.  
-Users in the European Economic Area (EEA) will be asked for consent before personalized ads are shown.  
+* Device information
+* IP address
+* Advertising ID
+* Usage data
 
-More information:  
+This data may be used to display personalized or non-personalized advertisements.
+
+### Consent (EEA Users)
+
+Users in the European Economic Area (EEA) will be asked for consent before personalized advertising is displayed.
+
+A consent management platform (CMP) is used to obtain and manage user consent. Users can:
+
+* Accept or reject personalized ads
+* Choose non-personalized ads
+* Withdraw or change their consent at any time within the app
+
+### Legal Basis
+
+* Art. 6(1)(a) GDPR (consent)
+* Art. 6(1)(f) GDPR (legitimate interest in financing the app)
+
+Our legitimate interest lies in providing a free app supported by advertising.
+
+### Data Transfers to Third Countries
+
+Data may be transferred to countries outside the European Economic Area (e.g., the United States).
+
+There is a possibility that authorities in such countries may access personal data. Google uses Standard Contractual Clauses (SCCs) approved by the European Commission to ensure an adequate level of data protection.
+
+More information:
 https://policies.google.com/technologies/ads
 
-## 6. Legal Basis for Processing
-Data processing is carried out based on:
-- Art. 6(1)(a) GDPR (consent)  
-- Art. 6(1)(f) GDPR (legitimate interest in financing the app through advertising)
+---
 
-## 7. Your Rights
-You have the right to:
-- Access your data  
-- Rectification  
-- Erasure  
-- Restriction of processing  
-- Object to processing  
-- Data portability  
+## 5. Backend / Server Communication
 
-## 8. Changes
-We reserve the right to update this privacy policy if necessary.  
+The app communicates with a backend server to provide its functionality.
 
-## 9. Data Retention
-We do not store personal data ourselves. Data processed by third-party providers is handled according to their respective privacy policies.
+During this process, the following data may be processed:
 
-## 10. Server / Backend
+* **IP address**
+  Used for security, stability, debugging, and rate limiting
 
-The app communicates with our backend server to provide app functionality. During this process, the following data may be collected and processed:
+* **Pseudonymous device identifier (generated device ID)**
+  Used to recognize requests and prevent abuse
 
-- **IP address** – used for security, debugging, and rate limiting.  
-- **Device identifier (Device ID)** – used to identify the device for features like rate limiting and preventing abuse.  
+This identifier does not allow direct identification of a person.
 
-This data is **only used to provide app functionality** and is transmitted securely via HTTPS. Server logs may temporarily store IP addresses for monitoring and security purposes.  
+### Storage Duration
 
-No other personal information is stored or shared by the backend.
+* Server logs (including IP addresses) are stored for a maximum of **7 days** and then automatically deleted.
+
+### Legal Basis
+
+* Art. 6(1)(b) GDPR (performance of the contract / app functionality)
+* Art. 6(1)(f) GDPR (legitimate interest in ensuring security and stability)
+
+---
+
+## 6. Data Recipients
+
+Personal data may be shared with the following categories of recipients:
+
+* Google Ireland Limited (AdMob)
+* Hosting or infrastructure providers (for backend operation)
+
+Data is only shared to the extent necessary for the respective purpose.
+
+---
+
+## 7. Data Retention
+
+We store personal data only as long as necessary for the purposes described in this policy or as required by law.
+
+---
+
+## 8. Your Rights
+
+Under the GDPR, you have the following rights:
+
+* Right of access (Art. 15 GDPR)
+* Right to rectification (Art. 16 GDPR)
+* Right to erasure (Art. 17 GDPR)
+* Right to restriction of processing (Art. 18 GDPR)
+* Right to data portability (Art. 20 GDPR)
+* Right to object (Art. 21 GDPR)
+* Right to withdraw consent at any time (Art. 7(3) GDPR)
+
+### Right to Lodge a Complaint
+
+You have the right to lodge a complaint with a supervisory authority, in particular in your country of residence.
+
+---
+
+## 9. Security
+
+Data transmission between the app and the backend is encrypted using HTTPS (TLS).
+
+---
+
+## 10. Changes to This Privacy Policy
+
+We reserve the right to update this privacy policy to reflect legal or technical changes.
 
 ---
 
@@ -74,10 +151,12 @@ No other personal information is stored or shared by the backend.
 
 **Information according to § 5 TMG**
 
-Christian Rothhaar  
-Querweg 4  
-25336 Elmshorn   
+Christian Rothhaar
+Querweg 4
+25336 Elmshorn
 Germany
 
-**Contact:**  
-Email: christian.rothhaar@gmx.net
+**Contact:**
+Email: [christian.rothhaar@gmx.net](mailto:christian.rothhaar@gmx.net)
+
+Electronic contact via email is sufficient and responses will be provided promptly.
