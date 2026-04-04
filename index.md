@@ -14,9 +14,9 @@ Personal data is any information relating to an identified or identifiable natur
 
 ## 2. Data Controller
 
-Christian Rothhaar
-Querweg 4
-25336 Elmshorn
+Christian Rothhaar  
+Querweg 4  
+25336 Elmshorn  
 Germany
 
 Email: [christian.rothhaar@gmx.net](mailto:christian.rothhaar@gmx.net)
@@ -151,9 +151,9 @@ We reserve the right to update this privacy policy to reflect legal or technical
 
 **Information according to § 5 TMG**
 
-Christian Rothhaar
-Querweg 4
-25336 Elmshorn
+Christian Rothhaar  
+Querweg 4  
+25336 Elmshorn  
 Germany
 
 **Contact:**
