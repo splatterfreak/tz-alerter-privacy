@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of Service
+---
+
 # Terms of Use for "Terror Zone Alerter for D2"
 
 **Last updated: April 2026**
